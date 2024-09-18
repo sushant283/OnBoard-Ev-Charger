@@ -1,4 +1,4 @@
-                                        On-Board EV Charger
+                                                     On-Board EV Charger
 Overview
 This repository contains the design, implementation, and documentation for an advanced on-board electric vehicle (EV) charger. The charger supports three modes of charging: grid, solar, and regenerative braking, providing a versatile and efficient solution for EV owners.
 
